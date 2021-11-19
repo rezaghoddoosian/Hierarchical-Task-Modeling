@@ -6,9 +6,13 @@ Here is the code for our WACV 2022 paper : https://arxiv.org/pdf/2110.05697.pdf
 ********************************************************************************************************************
 
 Main Software Requirements:
+
 PyTorch 1.1
+
 Python 3.6
+
 numpy among others
+
 Ubuntu 16
 
 
