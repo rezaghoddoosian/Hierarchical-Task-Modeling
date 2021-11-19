@@ -37,9 +37,13 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 0-2- Download the pre-computed iDT from the third party link used in [2]: https://uni-bonn.sciebo.de/s/wOxTiWe5kfeY4Vd
 
 0-3- Extract the content of the "data/features/"  inside our defined "/data/idt/features/" directory.
+
 0-4- Extract the content of the "data/groundTruth/"  inside our defined "/data/groundTruth/" directory. (already done)
+
 0-5- Extract the content of the "data/transcripts/"  inside our defined "/data/transcripts/" directory. (already done)
+
 0-6- Place all the .py files in the same directory as data
+
 ######Execution################
 1-0- Go to options.py and change the parameters if desired. 
 1-1- Type the following command line in terminal: python main.py
