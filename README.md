@@ -17,15 +17,19 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 ## Make sure you have the following folder directories
 
 |data
+
 	| i3d
+	
 		| features
 	
 	| idt 
+	
 		| features
 
 	| groundTruth
 
 	| transcripts
+	
 |logs
 
 |Visualization
