@@ -16,7 +16,7 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 ********************************************************************************************************************
 ## Make sure you have the following folder directories
 
-|data
+    |data
 
 	| i3d
 	
