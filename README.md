@@ -54,7 +54,9 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 
 1-0- Go to options.py and change the parameters if desired. 
 
-1-1- Type the following command line in terminal: python main.py
+1-1- Type the following command line in terminal: 
+
+	python main.py
 
 ###############################
   
