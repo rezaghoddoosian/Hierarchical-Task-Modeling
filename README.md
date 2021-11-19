@@ -15,6 +15,7 @@ Ubuntu 16
 Instructions to reproduce the task recognition results on the Beakfast dataset using I3D and iDT features:
 ********************************************************************************************************************
 ## Make sure you have the following folder directories
+
 |data
 	| i3d
 		| features
@@ -26,7 +27,9 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 
 	| transcripts
 |logs
+
 |Visualization
+
 |utils_folder 
 
 ## Data Preparation
