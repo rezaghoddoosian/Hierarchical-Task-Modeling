@@ -31,8 +31,11 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 
 ######Data Preparation#########
 0-0- Download the pre-computed I3D features from the third party link used in [1]:  https://zenodo.org/record/3625992#.X7vj8axKjCJ
+
 0-1- Extract the content of the "/breakfast/features/"  inside the defined "/data/i3d/features/" directory.
+
 0-2- Download the pre-computed iDT from the third party link used in [2]: https://uni-bonn.sciebo.de/s/wOxTiWe5kfeY4Vd
+
 0-3- Extract the content of the "data/features/"  inside our defined "/data/idt/features/" directory.
 0-4- Extract the content of the "data/groundTruth/"  inside our defined "/data/groundTruth/" directory. (already done)
 0-5- Extract the content of the "data/transcripts/"  inside our defined "/data/transcripts/" directory. (already done)
