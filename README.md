@@ -14,7 +14,7 @@ Ubuntu 16
 ********************************************************************************************************************
 Instructions to reproduce the task recognition results on the Beakfast dataset using I3D and iDT features:
 ********************************************************************************************************************
-##Make sure you have the following folder directories
+## Make sure you have the following folder directories
 |data
 	| i3d
 		| features
@@ -29,7 +29,7 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 |Visualization
 |utils_folder 
 
-##Data Preparation
+## Data Preparation
 0-0- Download the pre-computed I3D features from the third party link used in [1]:  https://zenodo.org/record/3625992#.X7vj8axKjCJ
 
 0-1- Extract the content of the "/breakfast/features/"  inside the defined "/data/i3d/features/" directory.
@@ -44,7 +44,7 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 
 0-6- Place all the .py files in the same directory as data
 
-##Execution
+## Execution
 
 1-0- Go to options.py and change the parameters if desired. 
 
