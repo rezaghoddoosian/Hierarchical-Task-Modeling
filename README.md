@@ -1,6 +1,6 @@
 # Hierarchical Modeling for Task-Recognition and Action Segmentation in Weakly-Labeled Instructional Videos
 
-Here is the code for our WACV 2022 paper at : This is the code for our WACV 2021 accepted paper : https://arxiv.org/pdf/2110.05697.pdf
+Here is the code for our WACV 2022 paper : https://arxiv.org/pdf/2110.05697.pdf
 
 
 ********************************************************************************************************************
