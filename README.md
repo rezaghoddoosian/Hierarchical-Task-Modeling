@@ -16,7 +16,7 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 ********************************************************************************************************************
 ## Make sure you have the following folder directories
 
-|data
+ |data
 
 	| i3d
 	
@@ -30,11 +30,11 @@ Instructions to reproduce the task recognition results on the Beakfast dataset u
 
 	| transcripts
 	
-|logs
+ |logs
 
-|Visualization
+ |Visualization
 
-|utils_folder 
+ |utils_folder 
 
 ## Data Preparation
 0-0- Download the pre-computed I3D features from the third party link used in [1]:  https://zenodo.org/record/3625992#.X7vj8axKjCJ
